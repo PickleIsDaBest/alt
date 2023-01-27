@@ -1,0 +1,7 @@
+getgenv().MainAccount = {"Hax0963"
+}
+getgenv().FPS = 500
+getgenv().AutoRender = false
+getgenv().Alts = game.LocalPlayer
+-- IGNORE --
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PickleIsDaBest/alt/main/source', true))()
